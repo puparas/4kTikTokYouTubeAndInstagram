@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FuckTikTokYouTubeAndInstagram": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
